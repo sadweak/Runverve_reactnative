@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fitness App 🏋️‍♂️💪
 
 Welcome to Fitness App, a React Native application built with Expo to help users explore and learn exercises for all body parts. Whether you’re a beginner or an experienced gym-goer, this app serves as a comprehensive guide to improving your fitness journey.
@@ -68,3 +69,6 @@ For any questions or feedback, reach out to:
  • ahmad moussa
  • LinkedIn: [https://www.linkedin.com/in/ahmad-moussa-04bb0a263/]
  • Email: ahmadmoussa680@gmail.com
+=======
+# Runverve_reactnative
+>>>>>>> 4dd73ecbf3b09c4380d46dbe28b7e098c3869da7
